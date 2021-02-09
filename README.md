@@ -6,3 +6,6 @@ Autores:
 * Noe Melo Locumber
 
 Equipo: Bayes del Sur
+
+link de la mejor solución del evento:
+https://github.com/bucanero2010/DataBrewingCup2020_GANadores
